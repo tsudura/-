@@ -1,5 +1,4 @@
 # -
-ripository
 
 Hi Humans.
 
